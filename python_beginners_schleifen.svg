@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   id="svg7831"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="python_beginners_schleifen.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/paul/todo/klassen_o.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs7833">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective7839" />
+    <inkscape:perspective
+       id="perspective2848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76"
+     inkscape:cx="720.1364"
+     inkscape:cy="340.36675"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1378"
+     inkscape:window-height="886"
+     inkscape:window-x="483"
+     inkscape:window-y="166"
+     inkscape:window-maximized="0"
+     showguides="false" />
+  <metadata
+     id="metadata7836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect7841"
+       width="1280"
+       height="720"
+       x="0"
+       y="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.93526459px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="653.69672"
+       y="50.897129"
+       id="text7843"
+       transform="scale(0.97701885,1.0235217)"><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="50.897129"
+         id="tspan3360">Screencast: Python für Anfänger - Schleifen</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="85.816208"
+         id="tspan7851">www.openscreencast.de</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="120.73529"
+         id="tspan3011">Ausgangspunkt: Linux Mint 18.2</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="155.65437"
+         id="tspan7865">Datum: 01.01.2018</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="190.57346"
+         id="tspan7857">Lizenz: Creative Commons by-sa</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="225.49254"
+         id="tspan2838">http://creativecommons.org/licenses/by-sa/3.0/</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="260.41162"
+         id="tspan3004" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="295.33069"
+         id="tspan3005">Textquellen: http://opentechschool.github.io/python-beginners/de/index.html</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="330.24979"
+         id="tspan3014">&quot;Programmiereinführung mit Python&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="365.16885"
+         id="tspan3009">von OpenTechSchool (http://www.opentechschool.org/) and contributors</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="400.08795"
+         id="tspan3366">https://github.com/OpenTechSchool/python-beginners</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="435.00702"
+         id="tspan3368">https://github.com/OpenTechSchool/python-beginners/graphs/contributors</tspan><tspan
+         sodipodi:role="line"
+         x="658.14343"
+         y="469.92609"
+         id="tspan3372">(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear </tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="504.84518"
+         id="tspan3374">benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="539.76428"
+         id="tspan3027">Lizenz: http://creativecommons.org/licenses/by-sa/3.0/de</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="574.68335"
+         id="tspan3364" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="609.60242"
+         id="tspan3029">Bild: https://thenounproject.com/search/?q=snake&amp;i=24037</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="644.52148"
+         id="tspan3409">by Ola Möller (https://thenounproject.com/olamoller)</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="679.44055"
+         id="tspan3031">Lizenz: http://creativecommons.org/licenses/by/3.0/us/</tspan><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="714.35968"
+         id="tspan3057" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="749.27875"
+         id="tspan7861" /><tspan
+         sodipodi:role="line"
+         x="653.69672"
+         y="784.19781"
+         id="tspan4096" /></text>
+  </g>
+</svg>
